@@ -1,3 +1,7 @@
+**Problem Statement:**
+
+Will a customer accept the coupon?
+
 **Solution:**
 
 When asked the question to predict if a driver would accept a coupon by visualizing the data, I had to consider analyzing the data using a variety of conditions and combinations of conditions. In total I used 5 conditions with sub-conditions to predict if drivers would accept a coupon. The conditions are as follows:
